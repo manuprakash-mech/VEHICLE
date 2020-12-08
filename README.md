@@ -1,10 +1,8 @@
-# VEHICLE 
 # ISRO🚀 API
 
 Open Source API for Launched Spacecrafts & Rockets data of ISRO
 
 ## API End-Points
-
 <ul>
     <li> Spacecrafts: <a href="https://isro.vercel.app/api/spacecrafts" target="_blank" rel="noopener"
             rel="noreferrer">isro.vercel.app/api/spacecrafts</a></li>
